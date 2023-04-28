@@ -3,21 +3,32 @@
 This Docker image is based on Ubuntu 18.04 and includes Ruby 2.4.1 along with the following packages:
 
 - build-essential
-- libssl-dev
-- libreadline-dev
-- zlib1g-dev
 - curl
-- libpq-dev
+- git
+- imagemagick
+- java-common
+- ghostscript
+- libcurl4-openssl-dev
+- libffi-dev
+- libgeos-dev
+- libmagickwand-dev
 - libmysqlclient-dev
+- libpq-dev
+- libreadline-dev
+- libssl-dev
+- libmagic-dev
 - nano
 - nodejs
-- vim
-- postgresql-client
-- unzip
 - nginx
+- pkg-config
+- postgresql-client
+- python-dev
+- swig
 - tzdata
-- libgeos-dev
-- git
+- unzip
+- vim
+- wget
+- zlib1g-dev
 - aws cli
 
 ## Notes

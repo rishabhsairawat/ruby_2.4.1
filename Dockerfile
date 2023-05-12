@@ -35,6 +35,7 @@ RUN apt-get update && apt-get install -y \
     pkg-config \
     postgresql-client \
     python-dev \
+    supervisor \
     swig \
     tzdata \
     unzip \
